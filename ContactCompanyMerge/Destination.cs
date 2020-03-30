@@ -11,6 +11,6 @@ namespace ContactCompanyMerge
         public string BTR_IDs { get; set; }
         public string ENG_IDs { get; set; }
         public string CODE_Cont_IDs { get; set; }
-
+        public string Building_Applicants { get; set; }
     }
 }
